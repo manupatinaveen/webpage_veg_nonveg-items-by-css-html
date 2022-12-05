@@ -1,0 +1,51 @@
+body{
+	background-color: black;
+}
+#header{
+	background: linear-gradient(45deg,black,red,black);
+	color: white;
+	margin-top: 0;
+
+}
+#nav{
+	background-color: white;
+	text-align: center;
+}
+#nav a{
+	color: black;
+	text-decoration: none;
+	padding: 15px;
+}
+a{
+	color: wheat;
+}
+#veg-menu{
+	text-align: center;
+	text-decoration: none;
+}
+#veg-menu #veg{
+	text-decoration: none;
+	border: 3px solid white;
+}
+img{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
+td{
+	color: white;
+}
+#nv-menu #nv{
+	text-decoration: none;
+	border: 3px solid white;
+
+}
+a:hover{
+	background-color: white;
+}
+#nv{
+text-align: center;
+}
+h1{
+    color: blue;
+}
